@@ -1,0 +1,16 @@
+---
+description: Library for control Patlite LA6 Lamp with HTTP or MODBUS TCP Protocol
+fullname: lib.patlite.la6
+info:
+    chip_manufacturer: Patlite
+    chip_name: LA6-5DTNWB-PoE
+    name: Patlite LA6 Library
+    type: protocol
+keywords:
+- la6
+- patlite
+- lamp
+- http
+- modbus
+title: la6
+...

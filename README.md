@@ -1,1 +1,0 @@
-# lib-patlite-la6

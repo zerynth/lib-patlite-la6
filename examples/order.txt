@@ -1,0 +1,6 @@
+#Patlite
+    ##LA6
+        la6Basic-Animation-HTTP	
+        la6Basic-Animation-MODBUS
+        la6Advanced-Animation-HTTP
+        la6Advanced-Animation-MODBUS
